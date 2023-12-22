@@ -1,6 +1,7 @@
 123 update
 commit test
 456
+new line
 
 789.
 "add line" 
